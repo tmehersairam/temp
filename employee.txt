@@ -2,6 +2,8 @@ https://www.convertcsv.com/csv-to-sql.htm
 
 Employees
 
+
+Empno,Ename,Job,Salary,Deptno
 7001,Sandeep,Analyst,25000,10
 7002,Rajesh,Designer,30000,10
 7003,Madhav,Developer,40000,20
